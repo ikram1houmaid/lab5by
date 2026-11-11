@@ -1,0 +1,4 @@
+2026-11-11 16:18:29,319 - ERROR - Ligne 2 : exactement 3 colonnes sont requises.
+2026-11-11 16:18:29,324 - ERROR - Ligne 2 : le prix doit être supérieur à zéro.
+2026-11-11 16:18:29,328 - ERROR - Ligne 2 : le prix doit être numérique.
+2026-11-11 16:18:29,332 - ERROR - Ligne 2 : le prix doit être supérieur à zéro.
